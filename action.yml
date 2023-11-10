@@ -9,6 +9,5 @@ inputs:
       by replacing this token with a user token which has write-access to your repository. 
       Note that the token will be accessible to all repository collaborators.
     default: ${{ github.token }}
-runs:
-  using: "docker"
-  main: "bash updateReadme.sh"
+runs: |
+  bash updateReadme.sh
