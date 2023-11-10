@@ -4,7 +4,7 @@
 
 ---
 # Aufgabe
-[![GitHub Classroom Workflow](https://github.com/test-23-07/mini-python/actions/workflows/classroom.yml/badge.svg)](https://github.com/test-23-07/mini-python/actions/workflows/classroom.yml) 
+[![GitHub Classroom Workflow](https://github.com/test-23-07/update-markdown/actions/workflows/classroom.yml/badge.svg)](https://github.com/test-23-07/update-markdown/actions/workflows/classroom.yml) 
 
 In dieser ersten kleinen Mini-Aufgabe erstellt ihr ein Skript, das Hello Python mit Python ausgibt. 
  Folgt den Anweisungen. Unter Hilfe findet ihr Links, die mit dem Wort Spickzettel markiert sind. Drückt diese bei Bedarf, falls ihr nicht weiterkommt. 
