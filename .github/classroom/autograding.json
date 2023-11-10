@@ -1,0 +1,53 @@
+{
+  "repo": "test-23-07/mini-python",
+  "introduction": "In dieser ersten kleinen Mini-Aufgabe erstellt ihr ein Skript, das Hello Python mit Python ausgibt. \n Folgt den Anweisungen. Unter Hilfe findet ihr Links, die mit dem Wort Spickzettel markiert sind. Drückt diese bei Bedarf, falls ihr nicht weiterkommt. \n",
+  "logo_url": "https://www.udacity.com/blog/wp-content/uploads/2020/11/Hello-World_Blog-scaled.jpeg",
+  "timeframe": "15 Minuten (Viel Erfolg!)",
+  "tests": [
+    {
+      "specs": {
+        "title": "Erstelle eine hello.py Datei"
+      },
+      "name": "checking for hello.py script",
+      "feedback": "hello.py script could not be found",
+      "urls": [
+        "https://www.pythontutorial.net/getting-started/python-hello-world/"
+      ],
+      "keywords": [
+        "python",
+        "print",
+        "hello world"
+      ],
+      "type": "",
+      "run": "test -f hello.py",
+      "file": "",
+      "output": "",
+      "comparison": "",
+      "points": 5,
+      "timeout": 10
+    },
+    {
+      "specs": {
+        "title": "Schreibe das Skript so, dass es \"Hello Python\" auf STDOUT ausgibt"
+      },
+      "name": "create a script that prints \"Hello Python\"",
+      "feedback": "The script is not printing \"Hello Python\". Please check the script",
+      "urls": [
+        "https://www.pythontutorial.net/getting-started/python-hello-world/"
+      ],
+      "keywords": [
+        "python",
+        "print",
+        "stdout",
+        "hello world"
+      ],
+      "type": "",
+      "run": "python3 hello.py",
+      "file": "",
+      "output": "Hello Python",
+      "comparison": "exact",
+      "points": 5,
+      "timeout": 20
+    }
+  ]
+}
